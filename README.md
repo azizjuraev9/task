@@ -1,4 +1,4 @@
 # Задание
 
-* рефлизция на PHP `pure_php`
-* рефлизция на Yii2 `with_yii2`
+* реализация на PHP `pure_php`
+* реализация на Yii2 `with_yii2`
