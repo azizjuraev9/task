@@ -1,0 +1,12 @@
+body{
+    padding-top: 70px;
+    background-color: #0f0f0f;
+    color: #ccc;
+}
+.modal{
+    color: #212121;
+}
+.jumbotron{
+    background-color: #2e2e2e;
+    color: #ccc;
+}
