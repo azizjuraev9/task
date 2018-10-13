@@ -1,28 +1,10 @@
-ŒÔËÒ‡ÌËÂ ‡·ÓÚ˚ Ë ÛÒÚ‡ÌÓ‚ÍË ÔËÎÓÊÂÌËˇ
-----------------------------------------
+# –û–ø–∏—Å–∞–Ω–∏–µ —Ä–∞–±–æ—Ç—ã –∏ —É—Å—Ç–∞–Ω–æ–≤–∫–∏ –ø—Ä–∏–ª–æ–∂–µ–Ω–∏—è
 
-ƒ‡ÏÔ ·‡Á˚ ‰‡ÌÌ˚ı Ì‡ıÓ‰ËÚÒˇ ‚ Ô‡ÔÍÂ db. Ù‡ÈÎ DataBase.sql.
-¡‡Á‡ ‰‡ÌÌ˚ı MYSQL. 
-œ‡ÔÍË lib, view_parts ‰ÓÎÊÌ˚ ·˚Ú¸ Á‡˘Â˘ÂÌ˚ ÓÚ ˜ÚÂÌËÂ Ë ËÁÏÂÌÂÌËˇ ËÁ ‚ÌÂ.
-PHP 5.4> ÌÓ ÎÛ˜¯Â 7>.
-Õ‡ÒÚÓÈÍË ¡ƒ lib/main/config.php
+* –î–∞–º–ø –±–∞–∑—ã –¥–∞–Ω–Ω—ã—Ö –Ω–∞—Ö–æ–¥–∏—Ç—Å—è –≤ `db/DataBase.sql`
+* –ë–∞–∑–∞ –¥–∞–Ω–Ω—ã—Ö MYSQL. 
+* –ü–∞–ø–∫–∏ `lib`, `view_parts` –¥–æ–ª–∂–Ω—ã –±—ã—Ç—å –∑–∞—â–µ—â–µ–Ω—ã –æ—Ç —á—Ç–µ–Ω–∏–µ –∏ –∏–∑–º–µ–Ω–µ–Ω–∏—è –∏–∑ –≤–Ω–µ.
+PHP 5.4> –Ω–æ –ª—É—á—à–µ 7>.
+–ù–∞—Å—Ç—Ä–æ–π–∫–∏ –ë–î lib/main/config.php
 
-ŒÒÌÓ‚Ì˚Â ÛÔ‡‚Îˇ˛Û˘ËÂ ÍÎ‡ÒÒ˚ Ì‡ıÓ‰ˇÚÒˇ ‚ Ô‡ÔÍÂ lib/main.
-App Ë AdminApp
-
-
-
-*******************************************************************
-
-
-Work Description and Application Setup
---------------------------------------
-
-Database dump is located in db folder. file DataBase.sql.
-MYSQL database.
-Folders lib, view_parts should be protected from reading and changes from the outside.
-PHP 5.4> but better to use PHP 7>.
-DB settings lib/main/config.php
-
-The main control classes are in the lib/main folder.
-App and AdminApp
+–û—Å–Ω–æ–≤–Ω—ã–µ —É–ø—Ä–∞–≤–ª—è—é—É—â–∏–µ –∫–ª–∞—Å—Å—ã –Ω–∞—Ö–æ–¥—è—Ç—Å—è –≤ –ø–∞–ø–∫–µ lib/main.
+App –∏ AdminApp
